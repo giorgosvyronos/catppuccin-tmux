@@ -1,0 +1,17 @@
+# NOTE: you can use vars with $<var> and ${<var>} as long as the str is double quoted: ""
+# WARNING: hex colors can't contain capital letters
+
+# --> Catppuccin (Mocha)
+thm_bg="#0d1114"
+thm_fg="#c5ccda"
+thm_cyan="#89dceb"
+thm_black="#181825"
+thm_gray="#2d3041"
+thm_magenta="#cba6f7"
+thm_pink="#e4b658"
+thm_red="#f38ba8"
+thm_green="#a6e3a1"
+thm_yellow="#c9da46"
+thm_blue="#81ccfa"
+thm_orange="#80fcdd"
+thm_black4="#585b70"
